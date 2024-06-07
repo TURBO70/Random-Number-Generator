@@ -1,7 +1,7 @@
 ## Description:
 <p id="description">This repository contains a implementation of various Random Number Generation (RNG) methods in C++, including MRG, ICG, KS test, LFG, and MSM. Each method serves a unique purpose in generating random numbers with different properties, catering to diverse application requirements.</p>
  
- 
+  
 
 
 <h2> Methods Implemented:</h2>
